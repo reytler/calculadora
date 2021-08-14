@@ -1,6 +1,6 @@
-# Projeto fundamentos de React para estudo.
+# Projeto calculadora para estudo de ReactJS.
 
-**Criado em:** *03-08-2021*
+**Criado em:** *14-08-2021*
 
 
 **Projeto em desenvolvimento**
